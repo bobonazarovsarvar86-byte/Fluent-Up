@@ -1,0 +1,25 @@
+{
+  "name": "FluentUp — Learn English",
+  "short_name": "FluentUp",
+  "description": "Learn English smarter with AI: vocabulary, grammar, reading, listening, and speaking.",
+  "start_url": "/dashboard",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0F0817",
+  "theme_color": "#7C3AED",
+  "icons": [
+    {
+      "src": "/app-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/app-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

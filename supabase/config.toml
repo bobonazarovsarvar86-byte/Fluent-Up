@@ -1,0 +1,4 @@
+project_id = "faxanrevdheipewvdkzu"
+
+[functions.daily-lesson-cron]
+verify_jwt = false
